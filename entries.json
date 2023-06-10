@@ -117,271 +117,366 @@
     {
         "date": "2023-02-24",
         "title": "Day 24",
-        "content": "<ul><li>- Code cleaning</li><li>- Changed file upload to be without id</li><li>- Resolved integration issues in teacher registration and user registration</li><li>- Introduction to CORS</li><li>- API deployed on localhost to access</li></ul>"
+        "content": "<ul><li> Code cleaning</li><li> Changed file upload to be without id</li><li> Resolved integration issues in teacher registration and user registration</li><li> Introduction to CORS</li><li> API deployed on localhost to access</li></ul>"
     },
     {
         "date": "2023-02-27",
         "title": "Day 25",
-        "content": "<ul><li>-data validations in student management task with custom error response</li><li>-admin panel student teacher management task given and </li><li>-task is started with create teacher functionality and database connectivity in SQL server</li></ul>"
+        "content": "<ul><li>Data validations in student management task with custom error response</li><li>Admin panel student teacher management task given and </li><li>Task is started with create teacher functionality and database connectivity in SQL server</li></ul>"
     },
     {
         "date": "2023-02-28",
         "title": "Day 26",
-        "content": "<ul><li>- Admin Student Teacher Management system:</li><li>-create, update, delete and get teacher functionality</li><li>-create, update, delete and get student functionality</li><li>-create, update, delete and get subject functionality</li><li>-updating to new schema and have to clear lot of issues</li><li>-created different models for adding, updating and response of entities</li></ul>"
+        "content": "<ul><li> Admin Student Teacher Management system:</li><li>Create, update, delete and get teacher functionality</li><li>Create, update, delete and get student functionality</li><li>Create, update, delete and get subject functionality</li><li>Updating to new schema and have to clear lot of issues</li><li>Created different models for adding, updating and response of entities</li></ul>"
     },
     {
         "date": "2023-03-01",
         "title": "Day 27",
-        "content": "<ul><li>- SignalR</li><li>- Websockets/Realtime communications</li><li>- Server sent events</li><li>- Long Polling</li><li>- Introduction to mongodb</li><li>- Mongodb connection with .net web api</li></ul>"
+        "content": "<ul><li> SignalR</li><li> Websockets/Realtime communications</li><li> Server sent events</li><li> Long Polling</li><li>- Introduction to mongodb</li><li> Mongodb connection with .net web api</li></ul>"
     },
     {
         "date": "2023-03-02",
         "title": "Day 28",
-        "content": "<ul><li>- Tried MongoDB crud operations </li><li>- Task of creating API of player and match with CRUD operations</li></ul>"
+        "content": "<ul><li> Tried MongoDB crud operations </li><li> Task of creating API of player and match with CRUD operations</li></ul>"
     },
     {
         "date": "2023-03-03",
         "title": "Day 29",
-        "content": "<ul><li>1)  Changed player model to add First-name, Last-name, Wickets, Runs Jersey-no, etc.</li><li></li><li>2) Created ball/score entry  model to enter individual entries of every ball delivered</li><li>3) Created ball-entry API to create ball entries and fetch data with filtering, sorting, and pagination capabilities.</li><li></li><li>4) Redefined models and created entire project again with new API defined over new models to solve schema issues.</li><li></li></ul>"
+        "content": "<ul><li> Changed player model to add First-name, Last-name, Wickets, Runs Jersey-no, etc.</li><li></li><li> Created ball/score entry  model to enter individual entries of every ball delivered</li><li> Created ball-entry API to create ball entries and fetch data with filtering, sorting, and pagination capabilities.</li><li></li><li> Redefined models and created entire project again with new API defined over new models to solve schema issues.</li><li></li></ul>"
     },
     {
         "date": "2023-03-06",
         "title": "Day 30",
-        "content": "<ul><li>1) Added update functionality to team and player</li><li>2) Started new task of chat app</li><li>3) Implemented user registration and login API</li><li>4) Studied about social login</li></ul>"
+        "content": "<ul><li> Added update functionality to team and player</li><li> Started new task of chat app</li><li> Implemented user registration and login API</li><li> Studied about social login</li></ul>"
     },
     {
         "date": "2023-03-07",
         "title": "Day 31",
-        "content": "<ul><li>1) Resolved CORS error/issue</li><li>2) Generate token in user Registration with Login</li><li>3) Implemented Get API for users</li><li>4) Implemented social login with google JWT token</li><li>5) Implemented Forget password + Reset password + Change password + Email OTP verification </li></ul>"
+        "content": "<ul><li> Resolved CORS error/issue</li><li>2enerate token in user Registration with Login</li><li> Implemented Get API for users</li><li> Implemented social login with google JWT token</li><li> Implemented Forget password + Reset password + Change password + Email OTP verification </li></ul>"
     },
     {
         "date": "2023-03-09",
         "title": "Day 32",
-        "content": "<ul><li>ChatApp</li><li>1) Integrating with front-end issues resolved</li<li>2) Reset password with reset-token</li><li>3) File upload/ pic upload API implemented with IsProfilePic check to use in multiple cases</li><li>4) OTP check that it is used only once</li><li>5) Response model changed added success field</li></ul>"
+        "content": "<ul><li>ChatApp</li><li> Integrating with front-end issues resolved</li<li> Reset password with reset-token</li><li> File upload/ pic upload API implemented with IsProfilePic check to use in multiple cases</li><li> OTP check that it is used only once</li><li> Response model changed added success field</li></ul>"
     },
     {
         "date": "2023-03-10",
         "title": "Day 33",
-        "content": "<ul><li>ChatApp:</li><li>1) Response model having data object structure changed to accommodate for Token, User-Id and Email </li><li>2) Update user and delete user API implemented </li><li>3) Google validation on google token</li><li>4) Implemented logout API with changes in model to store token in database</li><li>5) Improved custom validations on password email, phone-no etc.</li></ul>"
+        "content": "<ul><li>ChatApp:</li><li> Response model having data object structure changed to accommodate for Token, User-Id and Email </li><li> Update user and delete user API implemented </li><li> Google validation on google token</li><li> Implemented logout API with changes in model to store token in database</li><li> Improved custom validations on password email, phone-no etc.</li></ul>"
     },
     {
         "date": "2023-03-13",
         "title": "Day 34",
-        "content": "<ul><li>Chat-App</li><li>1) Message Chat-Mapping model created</li><li>2) SignalR Setup</li><li>3) Sending and Receiving message and storing in DB</li><li>4) Get API re-implemented with Substring search</li><li>5) Socket connection with frontend</li></ul>"
+        "content": "<ul><li>Chat-App</li><li> Message Chat-Mapping model created</li><li> SignalR Setup</li><li> Sending and Receiving message and storing in DB</li><li> Get API re-implemented with Substring search</li><li> Socket connection with frontend</li></ul>"
     },
     {
         "date": "2023-03-14",
         "title": "Day 35",
-        "content": "<ul><li>Chat-App Task</li><li>1) Web-Socket Connected</li><li>2) Errors resolved</li><li>3) Connecting users</li><li>4) Hub functions added </li></ul>"
+        "content": "<ul><li>Chat-App Task</li><li> Web-Socket Connected</li><li> Errors resolved</li><li> Connecting users</li><li> Hub functions added </li></ul>"
     },
     {
         "date": "2023-03-15",
         "title": "Day 36",
-        "content": "<ul><li>Chat app</li><li>1) Get online users</li><li>2) GetChats</li><li>3) Changes in model and function implementations acc to needs of frontend</li><li>4) Made frontend team understand our api and socket functions implementation in detail for smooth integration</li></ul>"
+        "content": "<ul><li>Chat app</li><li> Get online users</li><li> GetChats</li><li> Changes in model and function implementations acc to needs of frontend</li><li> Made frontend team understand our api and socket functions implementation in detail for smooth integration</li></ul>"
     },
     {
         "date": "2023-03-16",
         "title": "Day 37",
-        "content": "<ul><li>Chat-App </li><li>1) Basic functioning changed according to front-end</li><li>2) Getting all users with online status</li><li>3) Online user status and chat history Errors resolved</li><li>4) Started file sharing</li></ul>"
+        "content": "<ul><li>Chat-App </li><li> Basic functioning changed according to front-end</li><li> Getting all users with online status</li><li> Online user status and chat history Errors resolved</li><li> Started file sharing</li></ul>"
     },
     {
         "date": "2023-03-17",
         "title": "Day 38",
-        "content": "<ul><li>Chat-App Task</li><li>1) File Upload in file sharing</li><li>2) Profile pic upload</li><li>3) Infinite scrolling</li><li>4) Get API created for logged in user only</li></ul>"
+        "content": "<ul><li>Chat-App Task</li><li> File Upload in file sharing</li><li> Profile pic upload</li><li> Infinite scrolling</li><li> Get API created for logged in user only</li></ul>"
     },
     {
         "date": "2023-03-20",
         "title": "Day 39",
-        "content": "<ul><li>Chat-App task</li><li>1) Database null entry error resolved</li><li>2) Sorting new users</li><li>3) Get API for Profile Page</li><li>4) Studied Best Practices</li></ul>"
+        "content": "<ul><li>Chat-App task</li><li> Database null entry error resolved</li><li> Sorting new users</li><li> Get API for Profile Page</li><li> Studied Best Practices</li></ul>"
     },
     {
         "date": "2023-03-21",
         "title": "Day 40",
-        "content": "<ul><li>Chat-App</li><li>1)  Added comments in code and made it more cleaner</li><li>2) Added logger for Logging in file</li><li>3) Response model implemented for unauthorized/unauthenticated users</li><li>4) Studied Auto-mapper </li></ul>"
+        "content": "<ul><li>Chat-App</li><li>  Added comments in code and made it more cleaner</li><li> Added logger for Logging in file</li><li> Response model implemented for unauthorized/unauthenticated users</li><li> Studied Auto-mapper </li></ul>"
     },
     {
         "date": "2023-03-22",
         "title": "Day 41",
-        "content": "<ul><li>Chat-App Task</li><li>1) Started Aws s3</li><li>2) Errors solved</li><li>3) Provided file name with file path in messages</li><li>4) Logger implementation</li></ul>"
+        "content": "<ul><li>Chat-App Task</li><li> Started Aws s3</li><li> Errors solved</li><li> Provided file name with file path in messages</li><li> Logger implementation</li></ul>"
     },
     {
         "date": "2023-03-23",
         "title": "Day 42",
-        "content": "<ul><li>Chat-App task</li><li>1) Send path-To-Pic in online users method and with messages</li><li>New task allocated</li><li>Restaurant-Management Task</li><li>1) Created user signup + login </li><li>2) Created Forget/Reset password and change password API</li><li>3) Get Uses API</li></ul>"
+        "content": "<ul><li>Chat-App task</li><li> Send path-To-Pic in online users method and with messages</li><li>New task allocated</li><li>Restaurant-Management Task</li><li> Created user signup + login </li><li> Created Forget/Reset password and change password API</li><li> Get Uses API</li></ul>"
     },
     {
         "date": "2023-03-27",
         "title": "Day 43",
-        "content": "<ul><li>Restaurant Management Task</li><li>1) Update + Delete user API</li><li>2) File Upload API</li><li>3) Add Chef API</li><li>4) Add Food +  get Food API</li><li>various API's implemented</li></ul>"
+        "content": "<ul><li>Restaurant Management Task</li><li> Update + Delete user API</li><li> File Upload API</li><li> Add Chef API</li><li> Add Food +  get Food API</li><li>various API's implemented</li></ul>"
     },
     {
         "date": "2023-03-28",
         "title": "Day 44",
-        "content": "<ul><li>Restaurant Management Task</li><li>1) Changed file upload to manual path update</li><li>2) Update food model and database migrations</li><li>3) Hub created get Online users method + place order created</li><li>4) Realtime notifications to Chef</li></ul>"
+        "content": "<ul><li>Restaurant Management Task</li><li> Changed file upload to manual path update</li><li> Update food model and database migrations</li><li> Hub created get Online users method + place order created</li><li> Realtime notifications to Chef</li></ul>"
     },
     {
         "date": "2023-03-29",
         "title": "Day 45",
-        "content": "<ul><li>Restaurant Management Task</li><li>1) Chef Completes Order in socket</li><li>2) Get orders API for user</li><li>3) Socket method place order errors resolved</li><li>4) Remove + Update Food API </li><li>5) Block / Unblock user by admin</li></ul>"
+        "content": "<ul><li>Restaurant Management Task</li><li> Chef Completes Order in socket</li><li> Get orders API for user</li><li> Socket method place order errors resolved</li><li> Remove + Update Food API </li><li> Block / Unblock user by admin</li></ul>"
     },
     {
         "date": "2023-03-30",
         "title": "Day 46",
-        "content": "<ul><li>Restaurant Management Task</li><li>1) Change Get List Response added total records in all Get APIs</li><li>2) Sending only Online Users in socket to reduce network data  load </li><li>3) Restrict user while register/login who are blocked by admin</li><li>4) Change Food Status in socket real-time  by chef</li></ul>"
+        "content": "<ul><li>Restaurant Management Task</li><li> Change Get List Response added total records in all Get APIs</li><li> Sending only Online Users in socket to reduce network data  load </li><li> Restrict user while register/login who are blocked by admin</li><li> Change Food Status in socket real-time  by chef</li></ul>"
     },
     {
         "date": "2023-03-31",
         "title": "Day 47",
-        "content": "<ul><li>-> Restaurant Management Task</li><li>     1) Order API access to chef </li><li>      2) Send order status to admin in Realtime using socket</li><li>-> Revised Database Concepts</li><li>-> Script to enter foods in database from CSV</li></ul>"
+        "content": "<ul><li>-> Restaurant Management Task</li><li> Order API access to chef </li><li>  Send order status to admin in Realtime using socket</li><li>-> Revised Database Concepts</li><li>-> Script to enter foods in database from CSV</li></ul>"
     },
     {
         "date": "2023-04-03",
         "title": "Day 48",
-        "content": "<ul><li>Restaurant Management System</li><li>1) Chef Order receive error resolved</li><li>2) Tried Chef Order Mapping but was not compatible</li><li>3) Studied Hang-fire  with demo</li></ul>"
+        "content": "<ul><li>Restaurant Management System</li><li> Chef Order receive error resolved</li><li> Tried Chef Order Mapping but was not compatible</li><li> Studied Hang-fire  with demo</li></ul>"
     },
     {
         "date": "2023-04-04",
         "title": "Day 49",
-        "content": "<ul><li>Learning:</li><li>1) Message Queue + RabbitMQ + Tried implementation</li><li>2) Docker installation for Redis and RabbitMQ</li><li>3) Redis with ASP.NET introduction</li></ul>"
+        "content": "<ul><li>Learning:</li><li> Message Queue + RabbitMQ + Tried implementation</li><li> Docker installation for Redis and RabbitMQ</li><li> Redis with ASP.NET introduction</li></ul>"
     },
     {
         "date": "2023-04-05",
         "title": "Day 50",
-        "content": "<ul><li>Learning </li><li>1) ORM</li><li>2) NHibernate</li><li>    - Introduction</li><li>    -Crud operation using NHibernate</li><li>3) Overview of Redis cache in  .NET</li></ul>"
+        "content": "<ul><li>Learning </li><li> ORM</li><li> NHibernate</li><li>    - Introduction</li><li>    -Crud operation using NHibernate</li><li> Overview of Redis cache in  .NET</li></ul>"
     },
     {
         "date": "2023-04-06",
         "title": "Day 51",
-        "content": "<ul><li>Learning:</li><li>-  Redis cache  .NET</li><li>-  Introduction to WCF</li><li>- Introduction to React </li></ul>"
+        "content": "<ul><li>Learning:</li><li>  Redis cache  .NET</li><li>  Introduction to WCF</li><li> Introduction to React </li></ul>"
     },
     {
         "date": "2023-04-07",
         "title": "Day 52",
-        "content": "<ul><li>Simple Employee CRUD APP </li><li>- Frontend using React JS</li><li>- Backend using Asp.net core web API</li><li>- Database : My SQL Server </li></ul>"
+        "content": "<ul><li>Simple Employee CRUD APP </li><li> Frontend using React JS</li><li> Backend using Asp.net core web API</li><li> Database : My SQL Server </li></ul>"
     },
     {
         "date": "2023-04-10",
         "title": "Day 53",
-        "content": "<ul><li>1) New Task (Shipping Logistics management) Assigned to implement RabbitMQ as message broker</li><li>2) Created models and planned flow of project </li><li>3) Created authentication (login/ forget/ reset/ change password and logout API's)</li></ul>"
+        "content": "<ul><li> New Task (Shipping Logistics management) Assigned to implement RabbitMQ as message broker</li><li> Created models and planned flow of project </li><li> Created authentication (login/ forget/ reset/ change password and logout API's)</li></ul>"
     },
     {
         "date": "2023-04-11",
         "title": "Day 54",
-        "content": "<ul><li>Shipping App Task</li><li>1) RabbitMQ two producer queue methods created </li><li>2) Get API's from microservices implemented</li><li>3) Upload pic API implemented</li></ul>"
+        "content": "<ul><li>Shipping App Task</li><li> RabbitMQ two producer queue methods created </li><li> Get API's from microservices implemented</li><li> Upload pic API implemented</li></ul>"
     },
     {
         "date": "2023-04-12",
         "title": "Day 55",
-        "content": "<ul><li>Shipping App Task</li><li>1) API gateway for Get and Post of product-Type, container-Type and driver.</li><li>2) Adding Driver as a user in DB</li><li>3) Add Manager as a admin</li><li>4) Created hub for socket</li></ul>"
+        "content": "<ul><li>Shipping App Task</li><li> API gateway for Get and Post of product-Type, container-Type and driver.</li><li> Adding Driver as a user in DB</li><li> Add Manager as a admin</li><li> Created hub for socket</li></ul>"
     },
     {
         "date": "2023-04-13",
         "title": "Day 56",
-        "content": "<ul><li>Shipping App</li><li>1) Add Manager errors resolved</li><li>2) Started Blazor Front-end for Shipping task</li></ul>"
+        "content": "<ul><li>Shipping App</li><li> Add Manager errors resolved</li><li> Started Blazor Front-end for Shipping task</li></ul>"
     },
     {
         "date": "2023-04-14",
         "title": "Day 57",
-        "content": "<ul><li>Shipping App Task</li><li>1) Changes in models and services according to other microservices</li><li>2) Helped others in issues</li><li>3) Studied Blazor frontend </li><li>4) Login and Registration in frontend with routing</li></ul>"
+        "content": "<ul><li>Shipping App Task</li><li> Changes in models and services according to other microservices</li><li> Helped others in issues</li><li> Studied Blazor frontend </li><li> Login and Registration in frontend with routing</li></ul>"
     },
     {
         "date": "2023-04-17",
         "title": "Day 58",
-        "content": "<ul><li>Shipping App Task</li><li>1) Refinement in login/registration + token storage in local storage + reset-Token</li><li>2) Reset password + change password in front-end</li><li>3) Started with Creating shipment but have to resolve issues</li></ul>"
+        "content": "<ul><li>Shipping App Task</li><li> Refinement in login/registration + token storage in local storage + reset-Token</li><li> Reset password + change password in front-end</li><li> Started with Creating shipment but have to resolve issues</li></ul>"
     },
     {
         "date": "2023-04-18",
         "title": "Day 59",
-        "content": "<ul><li>Shipping App Task</li><li>1) User CRUD + admin can get users + remove users in API</li><li>2) Authorization in front end </li><li>3) Functionality on Front-end to add driver, product-type, container-type +  to get list of container-type, product-type</li><li>4) Debugging of Authentication issues </li></ul>"
+        "content": "<ul><li>Shipping App Task</li><li> User CRUD + admin can get users + remove users in API</li><li> Authorization in front end </li><li> Functionality on Front-end to add driver, product-type, container-type +  to get list of container-type, product-type</li><li> Debugging of Authentication issues </li></ul>"
     },
     {
         "date": "2023-04-19",
         "title": "Day 60",
-        "content": "<ul><li>Shipping App Task</li><li>1) Get Yourself API</li><li>2) Added Api's in api-gateway</li><li>3) Add Driver + add manager frontend</li><li>4) Update Driver location by himself in frontend</li><li>5) Client Get all shipments but having some errors in it</li><li>6) Admin Get users api only </li></ul>"
+        "content": "<ul><li>Shipping App Task</li><li> Get Yourself API</li><li>2) Added Api's in api-gateway</li><li> Add Driver + add manager frontend</li><li> Update Driver location by himself in frontend</li><li> Client Get all shipments but having some errors in it</li><li> Admin Get users api only </li></ul>"
     },
     {
         "date": "2023-04-20",
         "title": "Day 61",
-        "content": "<ul><li>Shipping App Task</li><li>1) Consumer for Queue driver notification</li><li>2) Added gateway api for best route+ driver shipment history + add checkpoints + update driver location </li><li>3) Get customer shipment history and status</li><li>4) Task review from Rohit sir </li></ul>"
+        "content": "<ul><li>Shipping App Task</li><li> Consumer for Queue driver notification</li><li> Added gateway api for best route+ driver shipment history + add checkpoints + update driver location </li><li> Get customer shipment history and status</li><li> Task review from Rohit sir </li></ul>"
     },
     {
         "date": "2023-04-21",
         "title": "Day 62",
-        "content": "<ul><li>Shipping App Task</li><li>1) Pagination  improved in get users</li><li>2) Issues resolved</li><li>3) Created socket in Web-Api</li><li>4) Blazor frontend connection to SignalR web-socket without authorization</li></ul>"
+        "content": "<ul><li>Shipping App Task</li><li> Pagination  improved in get users</li><li> Issues resolved</li><li> Created socket in Web-Api</li><li> Blazor frontend connection to SignalR web-socket without authorization</li></ul>"
     },
     {
         "date": "2023-04-24",
         "title": "Day 63",
-        "content": "<ul><li>Shipping App Task</li><li>1) Created socket connection for single page frontend</li><li>2) Resolved issues of converting connection to multiple pages</li><li>3) Started studying new UI library for Blazor ( Mud-Blazor)</li></ul>"
+        "content": "<ul><li>Shipping App Task</li><li> Created socket connection for single page frontend</li><li> Resolved issues of converting connection to multiple pages</li><li> Started studying new UI library for Blazor ( Mud-Blazor)</li></ul>"
     },
     {
         "date": "2023-04-25",
         "title": "Day 64",
-        "content": "<ul><li>Shipping App Task</li><li>1) Hub functions like refresh and refresh-list</li><li>2) Driver gets new shipment by socket real-time</li><li>3) Accept Shipment by driver</li><li>4) Mud-Blazor Login page</li></ul>"
+        "content": "<ul><li>Shipping App Task</li><li> Hub functions like refresh and refresh-list</li><li> Driver gets new shipment by socket real-time</li><li> Accept Shipment by driver</li><li> Mud-Blazor Login page</li></ul>"
     },
     {
         "date": "2023-04-26",
         "title": "Day 65",
-        "content": "<ul><li>Shipping App Task</li><li>1)  Mud-Blazor applied on login + registration + forget + reset forms</li><li>2) Socket implementation on front-end</li><li>3) Notification to driver as toaster on new shipment in his location</li><li>4) Resolved integration issues</li><li>5) Tested the microservice .</li></ul>"
+        "content": "<ul><li>Shipping App Task</li><li>  Mud-Blazor applied on login + registration + forget + reset forms</li><li> Socket implementation on front-end</li><li> Notification to driver as toaster on new shipment in his location</li><li) Resolved integration issues</li><li> Tested the microservice .</li></ul>"
     },
     {
         "date": "2023-04-27",
         "title": "Day 66",
-        "content": "<ul><li>Shipping App Task</li><li>1)  Added field in shippers and sorting of shipments for driver</li><li>2) Toasters for everything possible</li><li>3) Implemented UI changes suggested by mentor.</li><li>4) Popups for adding Products + containers</li><li>5) Top bar icon pop up for login + change password</li></ul>"
+        "content": "<ul><li>Shipping App Task</li><li>  Added field in shippers and sorting of shipments for driver</li><li> Toasters for everything possible</li><li> Implemented UI changes suggested by mentor.</li><li> Popups for adding Products + containers</li><li> Top bar icon pop up for login + change password</li></ul>"
     },
     {
         "date": "2023-05-01",
         "title": "Day 67",
-        "content": "<ul><li>Shipping App Task</li><li>1) Automatic Logout on unauthorized</li><li>2) Not found page error resolved</li><li>3) Studied Map-Box to integrate maps</li><li>4)  Checkpoint is now added with the use of map</li><li>5) Added Search bar in map</li></ul>"
+        "content": "<ul><li>Shipping App Task</li><li> Automatic Logout on unauthorized</li><li> Not found page error resolved</li><li> Studied Map-Box to integrate maps</li><li>  Checkpoint is now added with the use of map</li><li> Added Search bar in map</li></ul>"
     },
     {
         "date": "2023-05-02",
         "title": "Day 68",
-        "content": "<ul><li>Shipping App Task</li><li>1) Driver gets password setup email on added</li><li>2) Tracking map for driver </li><li>3) Add checkpoint on map for admin </li><li>4)  Create shipment gets-cost popover</li><li>5) Added  default directions in mapbox.</li></ul>"
+        "content": "<ul><li>Shipping App Task</li><li> Driver gets password setup email on added</li><li> Tracking map for driver </li><li> Add checkpoint on map for admin </li><li>4Create shipment gets-cost popover</li><li> Added  default directions in mapbox.</li></ul>"
     },
     {
         "date": "2023-05-03",
         "title": "Day 69",
-        "content": "<ul><li>Shipping App Task</li><li>1) Change in Driver maps tracking as recommended by mentor now it cannot be manipulated and is fixed with origin destination markers</li><li>2) Delivery tracking for client with origin destination , in transit checkpoints and current shipment location</li><li>3) started with update page for product-type</li></ul>"
+        "content": "<ul><li>Shipping App Task</li><li> Change in Driver maps tracking as recommended by mentor now it cannot be manipulated and is fixed with origin destination markers</li><li> Delivery tracking for client with origin destination , in transit checkpoints and current shipment location</li><li> started with update page for product-type</li></ul>"
     },
     {
         "date": "2023-05-04",
         "title": "Day 70",
-        "content": "<ul><li>Shipping App Task</li><li>1) Update container type + product type on frontend</li><li>2) Delete container type + product type implemented in API and UI</li><li>3) Get Checkpoints for admin</li><li>4) Profile page for all users</li><li>5) change password and delete account added in profile page</li><li>6) S3 API's of driver earning integrated in API-gateway</li></ul>"
+        "content": "<ul><li>Shipping App Task</li><li> Update container type + product type on frontend</li><li> Delete container type + product type implemented in API and UI</li><li> Get Checkpoints for admin</li><li> Profile page for all users</li><li> change password and delete account added in profile page</li><li> S3 API's of driver earning integrated in API-gateway</li></ul>"
     },
     {
         "date": "2023-05-05",
         "title": "Day 71",
-        "content": "<ul><li>Shipping App Task</li><li>1) Driver analytics added</li><li>2) Driver monthly earning chart added</li><li>3) Admin analytics and charts added</li><li>4)  removed unnecessary snippets + code cleaning + code refactoring</li><li>5)  delete button removed for admin + popup orientation corrected</li><li>6) added home page</li><li>7)  Added Header +  Added Our Services section + Added Timeline section + Added Footer + Commit all the Changes.</li></ul>"
+        "content": "<ul><li>Shipping App Task</li><li> Driver analytics added</li><li> Driver monthly earning chart added</li><li> Admin analytics and charts added</li><li>  removed unnecessary snippets + code cleaning + code refactoring</li><li>  delete button removed for admin + popup orientation corrected</li><li> added home page</li><li>  Added Header +  Added Our Services section + Added Timeline section + Added Footer + Commit all the Changes.</li></ul>"
     },
     {
         "date": "2023-05-08",
         "title": "Day 72",
-        "content": "<ul><li>Shipping App Task</li><li>1) Added  comments in backend API code + code cleaning</li><li>2) Improved minor issues in frontend as recommended</li><li>3) Shifted static URLs in frontend to appsettings.json</li><li>4)  Removed some bugs +  Tested the App + get project reviewed by mentor</li><br>li>Other :</li><li>1)  Introduction to Payment gateways.</li></ul>"
+        "content": "<ul><li>Shipping App Task</li><li> Added  comments in backend API code + code cleaning</li><li> Improved minor issues in frontend as recommended</li><li> Shifted static URLs in frontend to appsettings.json</li><li>  Removed some bugs +  Tested the App + get project reviewed by mentor</li><br><li>Other :</li><li>1)  Introduction to Payment gateways.</li></ul>"
     },
     {
         "date": "2023-05-09",
         "title": "Day 73",
-        "content": "<ul><li>Shipping App Task</li><li>1) Studied Razorpay for shipping app</li><li>2) Payment status + Transaction-Id + Order-Id + status stored in database</li><li>3) Payment Gateway integrated with shipping app</li><li>4) Created Order creation + verification API for RazorPay</li><li>5) Issues resolved</li></ul>"
+        "content": "<ul><li>Shipping App Task</li><li> Studied Razorpay for shipping app</li><li> Payment status + Transaction-Id + Order-Id + status stored in database</li><li> Payment Gateway integrated with shipping app</li><li> Created Order creation + verification API for RazorPay</li><li> Issues resolved</li></ul>"
     },
     {
         "date": "2023-05-10",
         "title": "Day 74",
-        "content": "<ul><li>Shipment App Task</li><li>1) Hosted full project in single machine with all microservices</li><li>2) Payment issues resolved</li><li>3) Refresh button added + add checkpoint checks</li><li>4)  Project review from mentor</li><li>5) Loading icon added in add checkpoints</li><li>6) Added razor page to show driver profile for admin</li><li>7) Created script to post checkpoints to api</li></ul>"
+        "content": "<ul><li>Shipment App Task</li><li> Hosted full project in single machine with all microservices</li><li> Payment issues resolved</li><li> Refresh button added + add checkpoint checks</li><li>  Project review from mentor</li><li> Loading icon added in add checkpoints</li><li> Added razor page to show driver profile for admin</li><li> Created script to post checkpoints to api</li></ul>"
     },
     {
         "date": "2023-05-11",
         "title": "Day 75",
-        "content": "<ul><li>Shipping App</li><li>1). Added Search filter in dropdown </li><li>2). Fixed the bug in Enter key Press in Login Component</li><li>3). Created components to show admin every driver's earning, profile and chart</li></ul>"
+        "content": "<ul><li>Shipping App</li><li> Added Search filter in dropdown </li><li> Fixed the bug in Enter key Press in Login Component</li><li> Created components to show admin every driver's earning, profile and chart</li></ul>"
     },
     {
         "date": "2023-05-12",
         "title": "Day 76",
-        "content": "<ul><li>Shipping App</li><li>1). Add checkpoint change to fill parent id</li><li>2). Media Impact project clone to local</li><li>3). Get partitions done </li><li>4) Attended Presentation session by Rohit sir</li></ul>"
+        "content": "<ul><li>Shipping App</li><li> Add checkpoint change to fill parent id</li><li> Media Impact project clone to local</li><li> Get partitions done </li><li>Attended Presentation session by Rohit sir</li></ul>"
     },
     {
         "date": "2023-05-15",
         "title": "Day 77",
-        "content": "<ul><li>Media Impact</li><li>1. Setup the folder structure for project</li><li>2. Clone the GitHub repo and Third-Party folder</li><li>3. Fixed the reference Errors.</li><li>4. Find the manifest certificate bug and </li><li>    removed it.</li><li>5. Build the Project.</li></ul>"
+        "content": "<ul><li>Media Impact</li><li> Setup the folder structure for project</li><li> Clone the GitHub repo and Third-Party folder</li><li> Fixed the reference Errors.</li><li> Find the manifest certificate bug and removed it.</li><li> Build the Project.</li></ul>"
+    },
+    {
+        "date": "2023-05-16",
+        "title": "Day 78",
+        "content": "<ul><li>Media Impact Project</li><li> Media Impact Server Overview </li><li> Read About File Packages and File </li><li>    Transfer</li><li> Gone through Media Impact Server flow diagram </li><li> Overview of WCF Services.</li></ul>"
+    },
+    {
+        "date": "2023-05-17",
+        "title": "Day 79",
+        "content": "<ul><li>Media Impact Project</li><li> SQL Server 2019 Configuration Setup for Media Impact Server.</li><li> Installing Remote Server Administration Tools for Windows</li><li> Removed all the reference Errors Project and Build Succeeded.</li><li> Setting Up RabbitMQ Server on localhost</li></ul>"
+    },
+    {
+        "date": "2023-05-18",
+        "title": "Day 80",
+        "content": "<ul><li>Media Impact Project</li><li> Resolved Reference Errors In Main</li><li> Added Connection String in Web.config</li><li> Added hibernate.cfg.xml file in Main.</li><li> Published the Main Website on IIS</li><li> Published Device-Portal WCF Service on IIS</li></ul>"
+    },
+    {
+        "date": "2023-05-19",
+        "title": "Day 81",
+        "content": "<ul><li>Media Impact Project</li><li> Restored Media Impact Databases</li><li> Done with giving the permissions to execute.</li><li> Setting Up the Connection string In Main</li><li> Adding The Telerik.Web.Skins.dll files to Main/Bin folder.</li><li>Removed some Dependency errors and Publishing Main to IIS</li><li> Device portal WCF setup</li></ul>"
+    },
+    {
+        "date": "2023-05-22",
+        "title": "Day 82",
+        "content": "<ul><li>Media Impact Project</li><li>Installed Services </li><li>Solved errors</li><li>Setup configuration</li><li>Create SQL Server Users for Services</li><li>Disabled some services</li><li>Added Media Impact Images website on IIS</li></ul>"
+    },
+    {
+        "date": "2023-05-23",
+        "title": "Day 83",
+        "content": "<ul><li>Media Impact Project</li><li>1.Install and Configure MSMQ </li><li> Disable Print Spoiler.</li><li> Installed Bitwise SSH Tunnel and </li><li> Activated the Certificate.</li><li> Go through Media Impact server docs.</li><li> Checkout the Code of Main Website</li></ul>"
+    },
+    {
+        "date": "2023-05-24",
+        "title": "Day 84",
+        "content": "<ul><li>Media Impact Project</li><li> Add Additional IIS Features</li><li> Install .NET 4.7 Features</li><li> Services to Disable</li><li> Go through docs of Impact Media server overview.</li><li> Find The Error in Reset Password Component</li></ul>"
+    },
+    {
+        "date": "2023-05-25",
+        "title": "Day 85",
+        "content": "<ul><li>Media Impact Project</li><li> Solved System.Threading.Channels </li><li>   Errors in MSMQ-Processors</li><li> Solved all the references error in utils folder and Update-Package -reinstall</li><li> Made changes in app.config and bin of Main</li><li> Downloaded some targeting framework  for the project.</li></ul>"
+    },
+    {
+        "date": "2023-05-26",
+        "title": "Day 86",
+        "content": "<ul><li>Media Impact Project</li><li>Studied Documentation of Player Machine</li><li>Checked out the code structure of Device portal</li><li> Solved some Reference Errors in Device portal</li><li> Created project report of shipping app for college viva</li></ul>"
+    },
+    {
+        "date": "2023-05-29",
+        "title": "Day 87",
+        "content": "<ul><li>Media impact Project</li><li> Solved reference error in DeviceFileTransfer in device portal</li><li> Solved SystemControlClient error in  DeviceChecker</li><li> Read the docs of Player Device</li><li> Solved the Reference.cs File Errors. </li></ul>"
+    },
+    {
+        "date": "2023-05-31",
+        "title": "Day 88",
+        "content": "<ul><li>Media Impact Project</li><li> Studied Documentation </li><li> Studied code</li><li> Build the Project And Tested It.</li></ul>"
+    },
+    {
+        "date": "2023-06-01",
+        "title": "Day 89",
+        "content": "<ul><li>Media Impact Project</li><li> Solved System.Memory Version error in Main.</li><li> Read Player Device Docs </li><li> Studied code of project </li><li> Studied Docs of Media Impact Server.</li></ul>"
+    },
+    {
+        "date": "2023-06-02",
+        "title": "Day 90",
+        "content": "<ul><li>Media Impact </li><li> Restart Playback button solve</li><li> SSH tunnel configured</li><li> Tried Playback device initialization</li><li> Reset Password page error solved</li></ul>"
+    },
+    {
+        "date": "2023-06-03",
+        "title": "Day 91",
+        "content": "<ul><li>Media Impact Project</li><li> Created player on server 112.196.113.3 and initialized device connection request</li><li> Resolved errors of player initialization request</li><li> Created Player object on main website to map it to incoming request</li><li> Tested remote restart and volume control</li></ul>"
+    },
+    {
+        "date": "2023-06-05",
+        "title": "Day 92",
+        "content": "<ul><li>Media Impact Project</li><li> Tested the Restart Device, Shutdown device, stop playback, force media stop</li><li> Solved the Issue of Scroll in Remote  Control General.</li><li> Solved the Issue of Height of Message  Queue Viewer</li><li> Uploaded the build and tested the Project</li></ul>"
+    },
+    {
+        "date": "2023-06-06",
+        "title": "Day 93",
+        "content": "<ul><li>Media Impact Project</li><li> Remove mappings button bug resolved in output configuration page</li><li> Tried solving restart playback bug </li></ul>"
+    },
+    {
+        "date": "2023-06-07",
+        "title": "Day 94",
+        "content": "<ul><li>Media Impact Project</li><li> Fixed scrolling in Player device diagnostics page</li><li> Tried Restart playback in player device</li></ul>"
+    },
+    {
+        "date": "2023-06-08",
+        "title": "Day 95",
+        "content": "<ul><li>Media Impact Project</li><li> Resolved Restart playback button issue to restart player's playback process.</li><li> Tested and uploaded the changes</li></ul>"
+    },
+    {
+        "date": "2023-06-09",
+        "title": "Day 96",
+        "content": "<ul><li>Media Impact Project</li><li>Create company page changed, Default company Mosaic Media and user can't add duplicate entries</li><li> Added functions in ComapnyFactory.cs</li><li>  Documented previous work.</li><li> Created UI of Manage Companies page.</li><li> Created delete confirmation page</li></ul>"
     }
 ]
